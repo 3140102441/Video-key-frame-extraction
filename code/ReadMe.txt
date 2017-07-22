@@ -1,0 +1,5 @@
+代码运行平台是matlab2016a，先运行cutimage代码，可以在当前目录下生成test.avi的切分帧图像，
+
+再分别运行edge_check0,edge_check1,edge_check2代码，可以在命令行看到三种算法识别出来的切
+
+换帧编号。
